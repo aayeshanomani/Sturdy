@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppConfig {
   static const appName = "Sturdy";
-  static const appTagline = "<tagline>";
+  static const appTagline = "A Holistic School";
 }
 
 class AvailableFonts {

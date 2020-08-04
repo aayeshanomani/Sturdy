@@ -114,7 +114,7 @@ class TutorHomeState extends State<TutorHome> {
           (
             icon: Icon
             (
-              FontAwesomeIcons.shoppingBasket,
+              FontAwesomeIcons.bookOpen,
               color: Colors.white,
             ),
             title: Text

@@ -86,7 +86,7 @@ class _MerchHomeState extends State<StudentHome> {
             (
               icon: Icon
               (
-                FontAwesomeIcons.shoppingBasket,
+                FontAwesomeIcons.bookOpen,
                 color: Colors.white,
                 size: _currentIndex == 0 ? 20 : 25,
               ),

@@ -1,4 +1,5 @@
 import 'package:eureka/services/auth.dart';
+import 'package:eureka/splash.dart';
 import 'package:eureka/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -24,7 +25,7 @@ class _MyAppState extends State<MyApp> {
       child: MaterialApp
       (
         debugShowCheckedModeBanner: false,
-        home: Wrapper(),
+        home: SplashScreen(),
       ),
     );
   }

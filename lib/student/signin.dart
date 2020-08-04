@@ -93,11 +93,11 @@ class _StudentSignInState extends State<StudentSignIn> {
                     children: <Widget>[
                       Padding(
                         padding: EdgeInsets.only(top: 75.0),
-                        /*child: new Image(
+                        child: new Image(
                             width: 250.0,
                             height: 191.0,
                             fit: BoxFit.fill,
-                            image: new AssetImage('assets/merchant.png')),*/
+                            image: new AssetImage('assets/student.png')),
                       ),
                       Padding(
                         padding: EdgeInsets.only(top: 20.0),
@@ -183,7 +183,7 @@ class _StudentSignInState extends State<StudentSignIn> {
       width: 300.0,
       height: 50.0,
       decoration: BoxDecoration(
-        color: Colors.blue[100],
+        color: Colors.blueAccent[100],
         borderRadius: BorderRadius.all(Radius.circular(25.0)),
       ),
       child: CustomPaint(
@@ -461,7 +461,7 @@ class _StudentSignInState extends State<StudentSignIn> {
                                         FontAwesomeIcons.user,
                                         color: Colors.black,
                                       ),
-                                      hintText: "Shop Name",
+                                      hintText: "Username",
                                       hintStyle: TextStyle(
                                           fontFamily: "WorkSansSemiBold",
                                           fontSize: 16.0),
