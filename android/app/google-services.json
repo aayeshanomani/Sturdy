@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "148080567371",
+    "firebase_url": "https://eureka-vidchat.firebaseio.com",
+    "project_id": "eureka-vidchat",
+    "storage_bucket": "eureka-vidchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148080567371:android:43ec3ee2c36f2d221619ce",
+        "android_client_info": {
+          "package_name": "com.aayesha.eureka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148080567371-e86cic9n79nclggda8k1iiik68son6uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkW-ukOW6zhZ5oDHicODLEWqbXV-yaiCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148080567371-e86cic9n79nclggda8k1iiik68son6uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148080567371:android:2e2a34331b62436d1619ce",
+        "android_client_info": {
+          "package_name": "com.example.eurekavidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148080567371-4nja5b49465g57gct0ntpb2h5kc7ts6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eurekavidchat",
+            "certificate_hash": "a969fe8cc2f96c9fc6ef426cb7e1d3c80a52b091"
+          }
+        },
+        {
+          "client_id": "148080567371-e86cic9n79nclggda8k1iiik68son6uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkW-ukOW6zhZ5oDHicODLEWqbXV-yaiCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148080567371-e86cic9n79nclggda8k1iiik68son6uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
